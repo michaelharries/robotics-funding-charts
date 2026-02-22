@@ -2,6 +2,8 @@
 
 A Google Colab notebook that generates publication-ready charts from Tracxn robotics company and funding data. Upload two Excel files, run all cells, and download a ZIP of PNG charts.
 
+Michael Harries Feb 21, 2026
+
 ## Prerequisites
 
 - A Google account (for Google Colab)
