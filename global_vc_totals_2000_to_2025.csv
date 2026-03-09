@@ -1,0 +1,27 @@
+Year,Global VC Investment (USD billions),Primary Source,Secondary/Corroborating,Estimate?,Notes
+2000,57.1,NSF/SEI (PitchBook global),,no,Global (PitchBook backcast). Early-2000s not directly comparable with NVCA US series.
+2001,29.5,NSF/SEI (PitchBook global),,no,
+2002,23,NSF/SEI (PitchBook global),,no,
+2003,22.9,NSF/SEI (PitchBook global),,no,
+2004,26,NSF/SEI (PitchBook global),,no,
+2005,29.3,NSF/SEI (PitchBook global),,no,
+2006,36.8,NSF/SEI (PitchBook global),,no,
+2007,45.6,NSF/SEI (PitchBook global),,no,
+2008,53.2,NSF/SEI (PitchBook global),,no,
+2009,37.6,NSF/SEI (PitchBook global),,no,
+2010,53,NSF/SEI (PitchBook global),,no,
+2011,65.7,NSF/SEI (PitchBook global),,no,
+2012,63.6,NSF/SEI (PitchBook global),,no,
+2013,69.8,NSF/SEI (PitchBook global),,no,
+2014,111.2,NSF/SEI (PitchBook global),,no,
+2015,152.8,NSF/SEI (PitchBook global),,no,
+2016,151.5,NSF/SEI (PitchBook global),,no,
+2017,171.9,NSF/SEI (PitchBook global),CB Insights: "> $164B",no,PitchBook higher than CBI headline.
+2018,271.4,NSF/SEI (PitchBook global),KPMG Venture Pulse: "> $254B",yes,Treat as range ~$254-271B due to methodology differences.
+2019,294.8,Crunchbase YE 2019,"CB Insights/Dealroom show high-$200Bs",yes,Provider methodologies differ; Crunchbase used as primary.
+2020,294,CB Insights (State of Venture 2021),Crunchbase YE 2020: ~300B,yes,Methodology differences; ~294-300B.
+2021,621,CB Insights (State of Venture 2021),Other media cite the same CBI figure,no,Record year.
+2022,415.1,CB Insights (State of Venture 2022),,no,
+2023,248.4,CB Insights (State of Venture 2023),"Crunchbase YE 2023: ~$285B; PitchBook: ~$248B; Dealroom: ~$315B; KPMG Venture Pulse: $349.4B",yes,"Large provider spread ($248-349B). CBI/PitchBook align at ~$248B; KPMG highest at $349B due to broader methodology."
+2024,314,Crunchbase YE 2024,"KPMG Venture Pulse: $368.3B; Dealroom: higher (unspecified total)",yes,"Provider spread ~$314-368B. KPMG higher due to broader methodology. AI/ML captured ~36% of deal value (PitchBook)."
+2025,469,CB Insights (State of Venture 2025),"KPMG Venture Pulse: ~$512B; PitchBook: $512.6B; Crunchbase: ~$425B",yes,"Large provider spread ($425-513B). CBI primary ($469B; +47% YoY). KPMG/PitchBook highest (~$512B). Crunchbase lowest ($425B). AI dominated ~50-65% of funding. Largest rounds: OpenAI $40B, Anthropic $15B."
